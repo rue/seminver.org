@@ -1,0 +1,10 @@
+body {
+  width:  710px;
+  margin: 0 auto;
+  font:   14px Helvetica;
+}
+
+h1, h2 {
+  text-align: center;
+  margin:     2em;
+}
